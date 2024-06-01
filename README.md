@@ -18,8 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/hoshino2123)
-
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeadpoolpt11)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
@@ -51,7 +49,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=278cd5c9fe634722)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=dd25d681a911487d)
 ## 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Hoshino2123/github-readme-quotes)
 
