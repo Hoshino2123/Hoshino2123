@@ -51,7 +51,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/hoshino2123)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=278cd5c9fe634722)
 ## 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Hoshino2123/github-readme-quotes)
 
