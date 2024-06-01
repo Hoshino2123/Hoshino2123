@@ -1,9 +1,10 @@
 ## Sup, I'm Hoshino 🌸
-![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/79b91791-0032-4bd9-b3d9-27166cd0a78f)
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
+![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/79b91791-0032-4bd9-b3d9-27166cd0a78f)
+
+         
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning react native 🗑️
