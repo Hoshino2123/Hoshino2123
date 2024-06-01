@@ -19,12 +19,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
 
 ## Socials:
-<h3 align="left">Yooo, come on check my socials!</h3>
-<p align="">
-<a href="https://twitter.com/deadpoolpt11" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+<div>
+<a href="https://twitter.com/deadpoolpt11" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 " alt="" height="30" width="40" /></a>
+</div>
 
-</p>
 
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
