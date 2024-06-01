@@ -1,6 +1,9 @@
 ## Sup, I'm Hoshino 🌸
 ![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/79b91791-0032-4bd9-b3d9-27166cd0a78f)
 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning react native 🗑️
@@ -22,9 +25,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hosshino2123/github-profile-trophy-no-frame=true)
 
 ## Socials:
-<h3 align="left">Yooo, come on check my socials on beacons.ai -::</h3>
-<p align="left">
-<a href="https://beacons.ai/hoshino4ever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<h3 align="left">Yooo, come on check my socials!</h3>
+<p align="bottom">
+<a href="(https://twitter.com/deadpoolpt11)" target="blank"><img align="center" src="![image](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/f65fcbfd-f4b9-4488-9621-945c83535ebd)
+" alt="" height="30" width="40" /></a>
 
 </p>
 
