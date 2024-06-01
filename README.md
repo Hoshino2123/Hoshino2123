@@ -21,6 +21,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hosshino2123/github-profile-trophy-no-frame=true)
 
+## Socials:
+<h3 align="left">Yooo, come on check my socials on beacons.ai -::</h3>
+<p align="left">
+<a href="https://beacons.ai/hoshino4ever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+
+</p>
+
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
