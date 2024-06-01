@@ -9,7 +9,8 @@
 - 😄 Pronouns: He/Him or He/Her
 - ⚡ Fun fact: I was born with a motor disability, but neve give up
 
-##Languages##
+##Languages 🌸
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
 __
 [![MasterHead](https://www.zerochan.net/3928005)](https://github.com/Hoshino2123)
