@@ -1,10 +1,6 @@
 ## Sup, I'm Hoshino 🌸
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
 ![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/79b91791-0032-4bd9-b3d9-27166cd0a78f)
-
-         
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning react native 🗑️
@@ -19,16 +15,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
 
-
-
 ## Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hosshino2123/github-profile-trophy-no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
 
 ## Socials:
 <h3 align="left">Yooo, come on check my socials!</h3>
 <p align="bottom">
-<a href="(https://twitter.com/deadpoolpt11)" target="blank"><img align="center" src=" https://img.shields.io/badge/X-blue
+<a href="(https://twitter.com/deadpoolpt11)" target="blank"><img align="center" src="[https://img.shields.io/badge/X-blue](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 " alt="" height="30" width="40" /></a>
 
 </p>
