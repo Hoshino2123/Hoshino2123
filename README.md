@@ -18,6 +18,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/hoshino2123)
+
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeadpoolpt11)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
