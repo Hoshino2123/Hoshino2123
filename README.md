@@ -14,14 +14,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
 
-## Trophies:
+## Trophies 🌸
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
 
-## Socials:
+## my Socials (badges on bottom)🌸
+(https://beacons.ai/hoshino4ever)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeadpoolpt11)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
