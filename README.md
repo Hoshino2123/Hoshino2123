@@ -27,7 +27,7 @@
 ## Socials:
 <h3 align="left">Yooo, come on check my socials!</h3>
 <p align="bottom">
-<a href="(https://twitter.com/deadpoolpt11)" target="blank"><img align="center" src="![image](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/f65fcbfd-f4b9-4488-9621-945c83535ebd)
+<a href="(https://twitter.com/deadpoolpt11)" target="blank"><img align="center" src="https://devicon-website.vercel.app/api/twitter/original.svg?color=%2364717A
 " alt="" height="30" width="40" /></a>
 
 </p>
