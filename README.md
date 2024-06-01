@@ -1,3 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/oshi-no-ko-7/
+  ">
+
 ## Sup, I'm Hoshino 🌸
 
 - 🔭 I’m currently working on internship project 🌸
@@ -9,11 +12,13 @@
 - 😄 Pronouns: He/Him or He/Her
 - ⚡ Fun fact: I was born with a motor disability, but neve give up
 
-##Languages 🌸
+Languages overall 🌸
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
-__
-[![MasterHead](https://www.zerochan.net/3928005)](https://github.com/Hoshino2123)
+
+Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=hoshino2123ma&theme=onedark)](https://github.com/hoshino2123/github-profile-trophy)
+
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
