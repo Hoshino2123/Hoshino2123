@@ -18,7 +18,7 @@ Languages overall 🌸
 
 Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hoshino2123&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hoshino2123&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy)
 
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
