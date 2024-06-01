@@ -20,7 +20,7 @@
 
 ## Socials:
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeadpoolpt11)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 
 <!--
