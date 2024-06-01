@@ -19,7 +19,7 @@
 
 ## Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hoshino2123&no-frame=true))
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hosshino2123/github-profile-trophy-no-frame=true)
 
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
