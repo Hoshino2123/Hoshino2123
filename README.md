@@ -19,10 +19,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
 
 ## Socials:
-<div>
-<a href="https://twitter.com/deadpoolpt11" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-" alt="" height="30" width="40" /></a>
-</div>
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeadpoolpt11)
+
 
 
 <!--
