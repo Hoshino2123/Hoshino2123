@@ -1,4 +1,4 @@
-![original](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/a6199eff-ce52-4dce-b870-f1c172504346)## Sup, I'm Hoshino 🌸
+## Sup, I'm Hoshino 🌸
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
@@ -40,5 +40,7 @@ Here are some ideas to get you started:
 
 
 -->
+
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
