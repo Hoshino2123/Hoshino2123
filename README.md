@@ -16,9 +16,10 @@ Languages overall 🌸
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
 
 
+
 Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hoshino2123&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy)
+[![trophy][(https://github-profile-trophy.vercel.app/?username=Hoshino2123&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Hoshino2123&no-frame=true))
 
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
