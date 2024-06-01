@@ -1,7 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/oshi-no-ko-7/
-  ">
-
 ## Sup, I'm Hoshino 🌸
+![hippo](https://www.icegif.com/oshi-no-ko-7/)
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning react native 🗑️
