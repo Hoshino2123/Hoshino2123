@@ -1,13 +1,18 @@
-## Hi there 👋
+## Sup, I'm Hoshino 🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: beacons.ai ▶ https://beacons.ai/hoshino4ever...
-- 😄 Pronouns: HE/HIM ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on internship project 🌸
+- 🌱 I’m currently learning react native 🗑️
+- 👯 I’m looking to collaborate on repo
+- 🤔 I’m looking for help with react native 🗑️
+- 💬 Ask me about anything, since i know. I can't help with what I don't know
+- 📫 How to reach me - 🌸 https://beacons.ai/hoshino4ever 🌸
+- 😄 Pronouns: He/Him or He/Her
+- ⚡ Fun fact: I was born with a motor disability, but neve give up
+
+##Languages##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
+__
+[![MasterHead](https://www.zerochan.net/3928005)](https://github.com/Hoshino2123)
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
