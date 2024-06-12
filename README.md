@@ -48,11 +48,11 @@
 
 ## PC 😖
 
-[![i](https://img.shields.io/badge/Insys-000000?style=for-the-badge&logo=Insys&logoColor=white)
+![i](https://img.shields.io/badge/Insys-000000?style=for-the-badge&logo=Insys&logoColor=white)
 ## OS que usei 🌸
 
-[![RED HAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white))](#)
-[![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white))](#)
+[![RED HAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](#)
+[![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 ## VM 🌸
 
