@@ -11,12 +11,6 @@
 - ⚡ Fun fact: I was born with a motor disability, but neve give uP
 
 
-  ## lISTEN:
-  
-[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](https://open.spotify.com/user/🖤Hoshino🌸)
-
-
-
 
 ## Languages overall 🌸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
@@ -56,7 +50,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)](https://git.io/streak-stats)
 
 ## Spoti 🌸
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#
+
+##Page:
+[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](/https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=58462bccc618451c)
+
 
 
 
