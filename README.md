@@ -50,6 +50,8 @@
 ## Spoti 🌸
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 
+[![Spotify](https://novatorem-hoshino2123s-projects.vercel.app//api/spotify)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=e10f321b18a7426e)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
 
 ## 
