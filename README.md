@@ -8,7 +8,15 @@
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 📫 How to reach me - 🌸 https://beacons.ai/hoshino4ever 🌸
 - 😄 Pronouns: He/Him or He/Her
-- ⚡ Fun fact: I was born with a motor disability, but neve give up
+- ⚡ Fun fact: I was born with a motor disability, but neve give uP
+
+
+  ## lISTEN:
+  
+[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=e10f321b18a7426e)
+
+
+
 
 ## Languages overall 🌸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
@@ -50,7 +58,8 @@
 ## Spoti 🌸
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 
-[![Spotify](https://novatorem-hoshino2123s-projects.vercel.app//api/spotify)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=e10f321b18a7426e)
+
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
 
