@@ -57,9 +57,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true&theme=dark&include_all_commits)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true&theme=dark)
 
 
 
