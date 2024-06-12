@@ -1,5 +1,12 @@
 ## Sup, I'm Hoshino 🌸
-![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/2d286352-c2c8-436f-997a-0e16965a0e6)
+![oshi-no-ko-aqua](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/48008e22-6759-44c7-ad9b-85fe583f2920)
+
+![oshi-no-ko-hoshino-glow-sticks-oshi-no-ko](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/ffbb5103-e858-4fb9-a4cf-5e617bffced2)
+
+![image](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/53fa67b0-38ec-4e8d-8005-c1e0c04555de)
+
+
+
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning react native 🗑️
@@ -63,6 +70,11 @@
 
 ## 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Hoshino2123/github-readme-quotes)
+![image](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/91b9dcd3-1c87-48f8-acd8-557ddda256fd)
+
+É isso, sayonara <3
+![Uploading image.png…]()
+
 
 <!-- Markdown -->
 
