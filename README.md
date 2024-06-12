@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
 
 ## Stats 🌸
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)](https://github.com/hoshino2123/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
 ## Trophies 🌸
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
@@ -53,10 +53,9 @@
 ## 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Hoshino2123/github-readme-quotes)
 
-## Jokes 🙄
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
@@ -97,6 +96,4 @@ Here are some ideas to get you started:
 
 
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
