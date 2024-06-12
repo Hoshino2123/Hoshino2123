@@ -13,7 +13,7 @@
 
   ## lISTEN:
   
-[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=e10f321b18a7426e)
+[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=e10f321b18a7426e&nd=1&dlsi=8d5f93f242014962)
 
 
 
