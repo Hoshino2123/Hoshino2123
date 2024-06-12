@@ -56,7 +56,7 @@
 
 ## VM 🌸
 
-[![WIN](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)))](#)
+[![WIN](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](#)
 
 ## Browsers 🌸
 
@@ -79,7 +79,7 @@
 [![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](/https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=58462bccc618451c)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
 
 ## É isso, sayonara <3
