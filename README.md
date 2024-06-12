@@ -1,5 +1,5 @@
 ## Sup, I'm Hoshino 🌸
-![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/2d286352-c2c8-436f-997a-0e16965a0e61)
+![icegif-948](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/2d286352-c2c8-436f-997a-0e16965a0e6)
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning react native 🗑️
@@ -13,7 +13,7 @@
 
   ## lISTEN:
   
-[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=e10f321b18a7426e&nd=1&dlsi=8d5f93f242014962)
+[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](https://open.spotify.com/user/🖤Hoshino🌸)
 
 
 
