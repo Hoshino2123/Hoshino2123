@@ -46,7 +46,7 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-## 🎮
+## 🎮 Games
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -58,24 +58,19 @@
 ## Spoti 🌸
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#
 
-##Page:
+## Page:
 [![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](/https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=58462bccc618451c)
-
-
-
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
 
-## 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Hoshino2123/github-readme-quotes)
+
+## É isso, sayonara <3
 ![the-uncanny-counter-2-counter](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/aded9978-78bf-4229-a43a-65f417e29859)
 ![the-uncanny-counter-counter](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/a88d6a4e-6d05-44c7-9059-34bf1249901d)
 ![the-uncanny-counter-counters](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/1970c314-b3bf-4466-b0ba-1d9fd83901ea)
 ![a85b54d4524d64ad8c32aa9097a1ec9a](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/2c238b9e-e481-4300-b2e0-fad274569229)
 
-
-É isso, sayonara <3
 
 
 
