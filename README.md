@@ -50,7 +50,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes})
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hoshino2123)](https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=dd25d681a911487d)
 ## 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Hoshino2123/github-readme-quotes)
 
