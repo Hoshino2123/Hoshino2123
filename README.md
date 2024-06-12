@@ -13,7 +13,7 @@
 ## Languages overall 🌸
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true&theme=dark&locale=pt-pt&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 ## Trophies 🌸
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
