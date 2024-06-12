@@ -11,9 +11,7 @@
 - ⚡ Fun fact: I was born with a motor disability, but neve give up
 
 ## Languages overall 🌸
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&size_weight=0.5&count_weight=0.5)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Trophies 🌸
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
