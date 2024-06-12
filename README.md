@@ -57,6 +57,11 @@
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&show_icons=true)
+
+
+
 💕💗
 <!--
 **Hoshino2123/Hoshino2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
