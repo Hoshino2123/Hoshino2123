@@ -19,7 +19,7 @@
 
 
 ## Languages overall 🌸
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
 
 ## Stats 🌸
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
@@ -77,7 +77,6 @@
 
 ## games consoles 
 ![3DS](https://img.shields.io/badge/GAMEBOY-D12228?style=for-the-badge&logo=gameboy&logoColor=white)
-
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
