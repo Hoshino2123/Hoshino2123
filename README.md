@@ -91,9 +91,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
 
-## Page:
-[![Spotify](https://novatorem-hoshino2123-projects.vercel.app//api/spotify)](/https://open.spotify.com/user/312izpdez5np7vhrvqxaovyycc7i?si=58462bccc618451c)
-
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
