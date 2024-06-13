@@ -8,9 +8,9 @@
 
 
 - 🔭 I’m currently working on internship project 🌸
-- 🌱 I’m currently learning react native 🗑️
+- 🌱 I’m currently learning fucking react native 🗑️ 
 - 👯 I’m looking to collaborate on repo
-- 🤔 I’m looking for help with react native 🗑️
+- 🤔 I’m looking for help with fucking react native 🗑️
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 📫 How to reach me - 🌸 https://beacons.ai/hoshino4ever 🌸
 - 😄 Pronouns: He/Him or He/Her
@@ -47,9 +47,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Phones 📱:
-![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+![Huawei](https://img.shields.io/badge/Wiko-%23FF0000.svg?style=for-the-badge&logo=wiko-rainbow-lite&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei-p10-lite&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung-a70&logoColor=white)
+![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi-13-pro&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 ## PC 😖
