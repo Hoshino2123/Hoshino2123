@@ -76,7 +76,8 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## games consoles 
-![3DS](https://img.shields.io/badge/GAMEBOY-COLOR-D12228?style=for-the-badge&logo=gameboy-color&logoColor=white)
+![3DS](https://img.shields.io/badge/GAMEBOY-D12228?style=for-the-badge&logo=gameboy&logoColor=white)
+
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
