@@ -19,10 +19,10 @@
 
 
 ## Languages overall 🌸
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=compact)
 
 ## Stats 🌸
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)
 
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
