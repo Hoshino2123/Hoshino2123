@@ -45,6 +45,7 @@
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![i](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 
 ## Phones 📱:
 ![Huawei](https://img.shields.io/badge/Wiko-%23FF0000.svg?style=for-the-badge&logo=wiko-rainbow-lite&logoColor=white)
