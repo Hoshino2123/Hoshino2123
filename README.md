@@ -25,7 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)
 ## Trophies 🌸
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hoshino2123/github-profile-trophy-no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hoshino2123&theme=onedark)]
 
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
