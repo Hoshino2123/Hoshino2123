@@ -19,7 +19,7 @@
 
 
 ## Languages overall 🌸
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino2123&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut-vertical)
 
 ## Stats 🌸
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&include_all_commits=true&show_icons=true&theme=dark&locale=pt-pt)
