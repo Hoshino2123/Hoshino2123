@@ -14,7 +14,7 @@
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 📫 How to reach me - 🌸 https://beacons.ai/hoshino4ever 🌸
 - 😄 Pronouns: He/Him or He/Her
-- ⚡ Fun fact: I was born with a motor disability, but neve give uP
+
 
 
 
