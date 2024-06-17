@@ -82,7 +82,7 @@
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 
 ## Streak 🌸
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)
 
 ## Spoti 🌸
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
