@@ -23,6 +23,8 @@
 
 ## Stats 🌸
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username==Hoshino2123&show_icons=true&theme=dark)
+
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
