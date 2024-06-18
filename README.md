@@ -19,7 +19,7 @@
 
 
 ## Languages overall 🌸
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=9&custom_title=check-my-mosuused-languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=9&custom_title=Check_my_languages)
 
 ## Stats 🌸
 
