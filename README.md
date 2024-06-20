@@ -88,7 +88,6 @@
 ## Spoti 🌸
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
 
-[![spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
 
 
 
