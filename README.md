@@ -88,7 +88,7 @@
 ## Spoti 🌸
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=novatorem&show_online=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
 
 
 
