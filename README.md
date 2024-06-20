@@ -89,6 +89,9 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
 
 
+[![Spotify](https://hoshino2123.vercel.app/api/spotify)](https://open.spotify.com/user/Hoshino)
+
+
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
