@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
-![Static Badge](https://img.shields.io/badge/myanimelist)
+
 
 
 
