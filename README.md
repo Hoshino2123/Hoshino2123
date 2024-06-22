@@ -21,27 +21,27 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&include_all_commits=true&ring_color=dc143c&icon_color=ff7f50%title_color=daa520&text_color=f0e68c)
 
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)]
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)]
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)]
+[X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+[Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)
+[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+[Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)
+[TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)
+[MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)
 
 
 
 ## Languages and tools 🌸
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
-[![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![i](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+[React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+[VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[i](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=blue)
 
 ## Phones 📱:
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi-13-pro&logoColor=white)
