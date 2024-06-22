@@ -22,12 +22,12 @@
 
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)]
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)]
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)]
 
 
 
@@ -44,9 +44,6 @@
 ![i](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=blue)
 
 ## Phones 📱:
-![Huawei](https://img.shields.io/badge/Wiko-%23FF0000.svg?style=for-the-badge&logo=wiko-rainbow-lite&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei-p10-lite&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung-a70&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi-13-pro&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
