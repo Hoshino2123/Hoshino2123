@@ -9,14 +9,9 @@
 
 - 🔭 I’m currently working on internship project 🌸
 - 🌱 I’m currently learning fucking react native 🗑️ (DRUGS)
-- 👯 I’m looking to collaborate on repo
 - 🤔 I’m looking for help with fucking react native 🗑️ (DRUGS)
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
-- 📫 How to reach me - 🌸 https://beacons.ai/hoshino4ever 🌸
 - 😄 Pronouns: He/Him or He/Her
-
-
-
 
 ## Languages overall 🌸
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=9&)
