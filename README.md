@@ -21,13 +21,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&include_all_commits=true&ring_color=dc143c&icon_color=ff7f50%title_color=daa520&text_color=f0e68c)
 
 ## my Socials (badges on bottom) 🌸  https://beacons.ai/hoshino4ever 
-[X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-[Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)
-[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-[Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)
-[TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)
-[MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)]
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)]
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)]
 
 
 
