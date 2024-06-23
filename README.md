@@ -59,25 +59,18 @@
 
 [![WIN](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](#)
 
-## Browsers 🌸
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-[![WIN](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](#)
-
 ## 🎮 Games
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 ## games consoles 🌸
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
-
-## Streak 🌸
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)
-
 ## Spoti 🌸
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
-
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
+
+## Streak 🌸
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)
 
 
 ## É isso, sayonara <3
