@@ -42,27 +42,11 @@
 ![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![i](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=blue)
-
-## Phones 📱:
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi-13-pro&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
-## PC 😖
-
-![i](https://img.shields.io/badge/Insys-000000?style=for-the-badge&logo=Insys&logoColor=white)
 ## OS que usei 🌸
-
 [![RED HAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](#)
 [![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-
 ## VM 🌸
-
 [![WIN](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](#)
-
-## 🎮 Games
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-## games consoles 🌸
-![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ## Spoti 🌸
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
 
