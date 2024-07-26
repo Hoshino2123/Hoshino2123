@@ -3,7 +3,6 @@
 
 ![oshi-no-ko-hoshino-glow-sticks-oshi-no-ko](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/ffbb5103-e858-4fb9-a4cf-5e617bffced2)
 
-
 ![wink-anime](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/ca496ef4-cec2-4efa-92ab-ef66eb931cd4)
 
 
@@ -29,7 +28,6 @@ https://beacons.ai/hoshino4ever
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
