@@ -32,8 +32,6 @@ https://beacons.ai/hoshino4ever
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Spoti 🌸
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
 
 
