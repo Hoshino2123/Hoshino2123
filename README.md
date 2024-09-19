@@ -1,14 +1,6 @@
 ## Sup, I'm Hoshino 🌸
-![oshi-no-ko-aqua](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/48008e22-6759-44c7-ad9b-85fe583f2920)
-
-![oshi-no-ko-hoshino-glow-sticks-oshi-no-ko](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/ffbb5103-e858-4fb9-a4cf-5e617bffced2)
-
-![wink-anime](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/ca496ef4-cec2-4efa-92ab-ef66eb931cd4)
-
 
 - 🔭 I’m currently working on internship project 🌸
-- 🌱 I’m currently learning fucking react native 🗑️ (DRUGS)
-- 🤔 I’m looking for help with fucking react native 🗑️ (DRUGS)
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 😄 Pronouns: He/Him or He/Her
 
@@ -42,10 +34,6 @@ https://beacons.ai/hoshino4ever
 
 
 ## É isso, sayonara <3
-![the-uncanny-counter-2-counter](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/aded9978-78bf-4229-a43a-65f417e29859)
-![the-uncanny-counter-counter](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/a88d6a4e-6d05-44c7-9059-34bf1249901d)
-![the-uncanny-counter-counters](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/1970c314-b3bf-4466-b0ba-1d9fd83901ea)
-![a85b54d4524d64ad8c32aa9097a1ec9a](https://github.com/Hoshino2123/Hoshino2123/assets/65288010/2c238b9e-e481-4300-b2e0-fad274569229)
 
 
 
