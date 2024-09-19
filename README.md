@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&include_all_commits=true&ring_color=dc143c&icon_color=ff7f50%title_color=daa520&text_color=f0e68c)
 
 ## my Socials 🌸  
-[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-hoshino4ever-black?style=flat&logo=beacons.ai&logoColor=white&labelColor=white)](https://beacons.ai/hoshino4ever)
+![Static Badge](https://img.shields.io/badge/Beacons-ai?style=plastic&logoColor=black&logoSize=auto&color=000000&cacheSeconds=3060&link=https%3A%2F%2Fbeacons.ai%2Fhoshino4ever)
 
 
 ## Languages and tools 🌸
