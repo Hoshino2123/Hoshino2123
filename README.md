@@ -1,6 +1,5 @@
 ## Sup, I'm Hoshino 🌸
-
-- 🔭 I’m currently working on internship project 🌸
+https://pt.pinterest.com/pin/739786676323908288/
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 😄 Pronouns: He/Him or He/Her
 
