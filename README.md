@@ -1,5 +1,5 @@
 ## Sup, I'm Hoshino 🌸
-![image](https://github.com/user-attachments/assets/b31b6607-90d3-48fd-a4db-b31369b003ee)
+![27683d1af96a7e40287ef724ab84d9e2](https://github.com/user-attachments/assets/d0787cfb-d655-4e4d-a389-c0c6fc3eeef0)
 
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 😄 Pronouns: He/Him or He/Her
