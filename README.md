@@ -1,5 +1,6 @@
 ## Sup, I'm Hoshino 🌸
-https://pt.pinterest.com/pin/739786676323908288/
+![image](https://github.com/user-attachments/assets/b31b6607-90d3-48fd-a4db-b31369b003ee)
+
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
 - 😄 Pronouns: He/Him or He/Her
 
@@ -7,12 +8,10 @@ https://pt.pinterest.com/pin/739786676323908288/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=9&)
 
 ## Stats 🌸
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&include_all_commits=true&ring_color=dc143c&icon_color=ff7f50%title_color=daa520&text_color=f0e68c)
 
 ## my Socials 🌸  
 ![Static Badge](https://img.shields.io/badge/Beacons-ai?style=plastic&logoColor=black&logoSize=auto&color=000000&cacheSeconds=3060&link=https%3A%2F%2Fbeacons.ai%2Fhoshino4ever)
-
 
 ## Languages and tools 🌸
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
@@ -25,12 +24,10 @@ https://pt.pinterest.com/pin/739786676323908288/
 ## Spoti 🌸
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
 
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
 ## Streak 🌸
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)
-
 
 ## É isso, sayonara <3
 
