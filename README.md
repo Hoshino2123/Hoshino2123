@@ -27,8 +27,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
 
-## Streak 🌸
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoshino2123&theme=dark&date_format=%5BY.%5Dn.j&background=45%2CEB157F%2CEB0000)
+
 
 ## É isso, sayonara <3
 
