@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him or He/Her
 
 ## Languages overall 🌸
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=9&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=100)
 
 ## Stats 🌸
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&include_all_commits=true&ring_color=dc143c&icon_color=ff7f50%title_color=daa520&text_color=f0e68c)
