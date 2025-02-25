@@ -1,0 +1,30 @@
+Instrução switch ...case
+. Não serve para testar conjuntos (internalos)
+, só funciona para testar constantes
+. a variável a testar é a mesma em todos os testes
+SWITCH(VARIÁVEL){
+CASE VALOR1:
+instruções
+(Se quiser parar é BREAK:)
+CASE VALOR 2: 
+instruções
+.
+.
+.
+Default(se não tiver nenhum case):
+Instruções
+}
+
+
+
+I: INSERIR
+A: APAGAR
+CASE 'A':
+CASE 'a {
+instruções
+BREAK; 
+}
+CASE 'I':
+CASE 'i' :{
+Instruções
+BREAK;
