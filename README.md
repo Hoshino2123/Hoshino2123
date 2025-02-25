@@ -23,7 +23,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________
 ## Tools 
 ![Static Badge](https://img.shields.io/badge/visual_studio_code-blue?style=plastic&logo=vscode&color=blue&link=https%3A%2F%2Fcode.visualstudio.com%2F)
-![Static Badge](https://img.shields.io/badge/my-sql?style=plastic&logo=mysql&logoColor=orange&label=sql&color=gray&link=https%3A%2F%2Fwww.mysql.com%2F)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)[](https://www.mysql.com/).
 ![Static Badge](https://img.shields.io/badge/emulator-expo?style=plastic&logo=expo&logoColor=%231C2024&logoSize=auto&label=expo&color=gray&link=https%3A%2F%2Fdocs.expo.dev%2F)
 
 __________________________________________________________________________________________________________________________________________________________
