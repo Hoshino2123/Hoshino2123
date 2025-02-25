@@ -2,7 +2,7 @@
 ![27683d1af96a7e40287ef724ab84d9e2](https://github.com/user-attachments/assets/d0787cfb-d655-4e4d-a389-c0c6fc3eeef0)
 
 - 💬 Ask me about anything, since i know. I can't help with what I don't know
-- 😄 Pronouns: He/Him or He/Her
+- 😄 Pronouns: He/Him 
 
 ## Languages overall 🌸
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=1000)
