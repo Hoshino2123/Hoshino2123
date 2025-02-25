@@ -5,9 +5,8 @@
 - 😄 Pronouns: He/Him 
 
 ## Languages overall 🌸
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=5000)
 ______________________________________________________________________________________________________________________________________________________
-## Stats 🌸
 
 _______________________________________________________________________________________________________________________________________________________
 ## My Socials 🌸
