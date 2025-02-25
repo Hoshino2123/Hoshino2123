@@ -36,17 +36,9 @@ ________________________________________________________________________________
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
-## Wakatime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hoshino2123)](https://github.com/anuraghazra/github-readme-stats)
 ____________________________________________________________________________________________________________________________________________________________
 ## É isso, sayonara <3
 <!-- Markdown -->
-
-
-
-
-
-
 
 
 💕💗
