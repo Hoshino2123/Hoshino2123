@@ -37,9 +37,7 @@ ________________________________________________________________________________
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
 ## Wakatime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hoshino2123)]
-
-[![wakatime](https://wakatime.com/badge/user/1436ba33-d4e2-470a-95e8-43e6ed451f3c.svg)](https://wakatime.com/@1436ba33-d4e2-470a-95e8-43e6ed451f3c)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hoshino2123)](https://github.com/anuraghazra/github-readme-stats)
 ____________________________________________________________________________________________________________________________________________________________
 ## É isso, sayonara <3
 <!-- Markdown -->
