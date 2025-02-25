@@ -15,11 +15,11 @@
 ![Static Badge](https://img.shields.io/badge/Beacons-ai?style=plastic&logoColor=black&logoSize=auto&color=000000&cacheSeconds=3060&link=https%3A%2F%2Fbeacons.ai%2Fhoshino4ever)
 
 ## Languages and tools 🌸
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-DEV?style=plastic&logo=html5&logoColor=orange&logoSize=auto&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FHTML)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/REACT-NATIVE?style=plastic&logo=react&logoColor=blue&logoSize=auto&color=gray&cacheSeconds=3600&link=https%3A%2F%2Freactnative.dev%2F)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) (https://code.visualstudio.com/)
+![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Spoti 🌸
