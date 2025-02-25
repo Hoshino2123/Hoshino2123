@@ -5,9 +5,10 @@
 - 😄 Pronouns: He/Him 
 
 ## Languages overall 🌸
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut&theme=dark&langs_count=5000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut-vertical&theme=dark&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 ______________________________________________________________________________________________________________________________________________________
-
+## Stats 🌸
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&locale=pt-pt&include_all_commits=true)
 _______________________________________________________________________________________________________________________________________________________
 ## My Socials 🌸
 ![Static Badge](https://img.shields.io/badge/Beacons-ai?style=plastic&logoColor=black&logoSize=auto&color=000000&cacheSeconds=3060&link=https%3A%2F%2Fbeacons.ai%2Fhoshino4ever)
@@ -34,6 +35,10 @@ ________________________________________________________________________________
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
+
+## Wakatime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hoshino2123)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/1436ba33-d4e2-470a-95e8-43e6ed451f3c.svg)](https://wakatime.com/@1436ba33-d4e2-470a-95e8-43e6ed451f3c)
 ____________________________________________________________________________________________________________________________________________________________
 ## É isso, sayonara <3
 <!-- Markdown -->
