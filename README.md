@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut-vertical&theme=dark&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 ______________________________________________________________________________________________________________________________________________________
 ## Stats 🌸
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&locale=pt-pt&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&locale=pt-pt&include_all_commits=true)  
 _______________________________________________________________________________________________________________________________________________________
 ## My Socials 🌸
 ![Static Badge](https://img.shields.io/badge/Beacons-ai?style=plastic&logoColor=black&logoSize=auto&color=000000&cacheSeconds=3060&link=https%3A%2F%2Fbeacons.ai%2Fhoshino4ever)
