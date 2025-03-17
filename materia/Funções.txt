@@ -1,0 +1,18 @@
+Funções:
+
+Tipo, Nome (Parâmetros) {
+    instruções da função.
+}
+Tipo - Tipo de valor devolvido pela função (no seu próprio nome),
+pode ser qualquer dos tipos já vistos ou void, quando a função não devolve nada.
+Parâmetros - Variáveis locais da função onde são passados e/ou devolvidos valores.
+Passagem de parâmetros:
+Por valor(Entrada):
+É feita uma cópia do valor, para a variável local da função.
+Referência de endereço:
+É atribuído á variável original um nome só conhecido na função(Entrada de saída).
+Pointer:
+(Entrada e/ou saída)
+A função recebe um apontador(Pointer) para a variável original
+
+
