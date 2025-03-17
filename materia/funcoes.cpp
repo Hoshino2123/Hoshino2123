@@ -45,3 +45,23 @@ int main(){
     return 0;
 
 }
+// Passagem por endereço
+//somar 2 valores e devolver o resultado no 3º parâmetro
+void soma (int v1, int v2, int &res) { //&= endereço
+
+res= v1 + v2;
+}
+// void não tem return.
+
+
+int main(){
+    int n1, n2, r;
+    
+    cout << "n1 = ";cin >> n1;
+    cout << "n2 = "; cin >> n2;
+    //chama a função
+    soma(n1 , n2, r);
+
+    cout << "resultado = " <<r;
+    return 0; 
+}
