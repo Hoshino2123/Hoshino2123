@@ -1,0 +1,57 @@
+Arrays bidimensionais:
+Sao arrays com 2 dimensões.
+Pode-se considerar que é um array (simples) onde ccada elemento também é um arrays simples.
+Podem-se designar por matrizes
+Possuem 2 índiices um para cada dimensão
+
+//Declaração
+Int notas [3] [4] - 4= nº colunas e 3=nº de linhas
+//escrever 87 na posição indicada
+Notas [1] [2] = 87;
+//percorrer todos os elementos do array, para cada linha, passar por todas as colinas
+//for(size_t i=0; i<totlinhas;i++)
+//antes de cada linha
+//for(size_t j=0; j<totlinhas; j++) {
+//para cada coluna
+//... notas {i][j]...
+}
+//depois de cada linha.
+
+// coisas novas
+const size_t totlinhas=3; - size_t = tamanho máximo 
+const size_t totcolunas=4; 
+
+//outra forma
+constexpr size_t totlinas = 3 - constexpr = definido em tempo de compilação (pelo programador)
+constexpr size_t totcolunas=4 - const = definido em tempo de compilação ou execução (quando o programa está a correr)
+
+arrays e funções:
+ao passar um array como parâmetro de uma função, ela não tem forma de saber quantos elementos tem o array.
+devido a isso, não se pode usar o for(auto -:-) dentro de função.
+Então tipicamente ao passar o array, usa-se um segundo parâmetro que é a sua dimensão	
+for(auto el:arr) {
+...el...
+}
+for(size_t i=0; i<dimarray; i++
+...array[i]...
+exemplo:
+constexpr int dim=5;
+void Mostra Idade (int ar [], int max){
+cout <<" as idades";
+for (int i=0; i<max;i++)
+cout <<setw(4)<<ar[i];
+}
+int main (){
+int idades[dim];
+cout << " escreva " << dim << " idade ";
+for( auto &idade : idade){
+cout << "idade=";
+cin>>idade;
+}
+MostraIdades(idades,dim);
+return 0;
+}
+nota: ao passar um arry a uma função, ele é passado por referência de endereço, sem ser preciso usar o & na declaração a função.
+
+Passagem por referência de endeço - permite alterar a variável original
+Passagem por valor - permite copiar o valor da variável
