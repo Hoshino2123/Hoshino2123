@@ -1,0 +1,33 @@
+STRINGS:
+Um conjunto de caracteres (símbolos)
+em c++ twmos 2 formatos:
+1- ARRAY DE CHAR.
+2- OBJETO STRING
+
+1- precisa de um terminador ao fim da string. O terminador é o caracter "\0"
+só se considera string se tiver \0, ex: char frase [8] = "AED";- AED\0
+char frase [8];
+frase="AED"; - erro porque não se consegue escrever em várias posições de um array, de uma só vez
+CHAR FRASE[8];
+FRASE[0]='A';
+FRASE[1]='E';
+FRASE[2]='D";
+FRASE[3]='\0' - assim funciona
+
+CHAR FRASE[]="AED" = AED\0 - n é obrigatório indicar a dimensão do array se ele for inicoado na instrução em que é criado.
+
+funções para o I
+strcpy(destino,origem)- copiar string
+strlen(string) - nº de chars úteis de sting
+strcat(destino,origem) - junta aoo final do destino a string indicada na origem., para usar isso é #include <cstring>
+
+2- objeto string:
+Não precisa de terminador
+Não é preciso definir a dimensão
+Podem-se usar oos operadores = e + da mesma forma que se usa para os (int, char, etc)
+Como é um objeto tem métodos (funções) associados
+tal como no array de  char, pode-se acedeer a um caracter de cada vez
+
+
+
+
