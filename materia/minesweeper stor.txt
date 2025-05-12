@@ -1,0 +1,34 @@
+Jogar
+recolhe o array e a  dimensão
+PPede a casa onde se quer jogar
+devolve false se acertou numa mina
+testa se jogou numa casa válida
+
+BOOL CAMPO [MAXCOL];
+Campo
+true=tem mina
+false= n tem mina
+Funções já feitas:
+VOID LIMPAMINAS()
+VOID PLANTAMINAS()
+VOID LISTAMINAS()
+
+int main() {
+LimpaMinas();
+PlantaMinas();
+while(jogar(campo,maxcol)) score++
+
+ListaMinas();
+COUT << "\nExplodiu após" << score <<  score <<"tentativas\n";
+return;
+
+BOOL JOGAR (BOOL TABULEIRO, SIZE_T DIM){
+SIZE_T POS;
+DO{
+cout << "posição = ";
+cin >> POS;
+if(pos <=0 || POS >
+
+ DIM) COUT "posiçao inválida"; 
+} WHILE (POS <0 || POS > DIM);
+return !tabuleiro [POS-1];
