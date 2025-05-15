@@ -1,4 +1,9 @@
 1 -Pointer:
 um pointer é uma variável cujo conteúdo é o endereço de memória para onde aponta.
 2 -Alocação dinâmica de memória:
-a variável não tem nome
+a variável não tem nome.
+3- passagem de parâmetros.
+passagem por valor, (só entrada)
+por referência, (entrada/saída)
+por pointer, (entrada/saída)
+
