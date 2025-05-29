@@ -1,0 +1,75 @@
+Biblotecas c++:
+<iomanip> : Cabeçalho que fornece manipuladores paramétricos:
+cout << setw():define o total de espaços para escrever o valor, útil para tabelas.
+cout << setfill():define qual o caracter a usar para preenchimento, só se usa 1 vez.
+O cout << setprecision() determina o número máximo de dígitos.
+números com vírgula, o setw n chega.
+cout << fixed: fixa o número de casas decimais, se necessário acrescenta zeros à direita-
+se usarmos cout << fixed << setprecision, o set precision passa a determinar casas decimais.
+se usarmos o setw + fixed + setprecision alinnnhamos os valores decimais pelo .
+se quisermos usar notação científica usamos o cout << scientific.
+o cout << defaultfloat, anula o fixed e o scientific.
+Input/output:
+o output (escreve no ecrã) é o cout.
+o input (ler o teclado) é o cin.
+o c++ distingue maiúsculas de minúsculas
+Strings, para as funções do array de caracteres:
+<string> (c++):
+length(): Devolve o comprimento de uma cadeia de caracteres
+size(): mesma coisa que o length
+max_size(): devolve o comprimento máximo.
+empty():Verifica se uma string está vazia ou não.
+erase(): apaga caracteres da string.
+compare(): compara 2 strings.
+swap(): troca o conteúdo de duas stringsClique para usar esta alternativa
+<cstring> (c):
+ARRAY DE CHAR
+a string temina com /0.
+cin.ignore() e necessário se tiver um cin antes.
+para ler a string com espaços deve-se usar o cin.getline(string,dimensão do array).
+cout << nome[i];  escrever a string, caracter a caracter
+Sleep: para ir escrevendo devagar
+para copiar string do destino até á origem usa-se strcpy(destino, origem).
+usamos strcat quando queremos juntar string como strcat(fim, início)
+usamos strlen quando queremos para determinar o comprimento de uma string, 
+ela conta o número de caracteres da string até o primeiro caractere nulo ( \0 ). 
+objeto string: ('\0' é um caracter como os outros).
+getline(cin, nomedavariável); //função para ler strings
+Arrays: 
+Um array é um conjunto de espaços todos do mesmo tipo.
+O array só tem UM nome que indica TODOS os espaços.
+Tipicamente, declara-se a dimensão do array como uma constante.
+É obrigatório usar o '&' quando se pretende modificar o conteúdo do array.
+Usamos o for(auto para quando n sabemos o tipo).
+Keywords c++:
+auto: deteta automaticamente o tipo da variável baseado no valor atribuído.
+bool: tipo de dados que só armazena valores verdadeiro ou falso.
+double: é usado para armazenar valores numéricos com casas decimais, oferecendo uma precisão maior do que o tipo float e o double tem 64bits.
+char: tipo de dados que pode armazenar um caracter.
+float: msm coisa que o double mas com menos precisão e com 32bits.
+int: tipo de dados que armazena nº inteiros.
+long: Garante que um número inteiro tem pelo menos 32 bits de comprimento
+else: Utilizado em declarações condicionais
+break: para imediatamente um loop ou bloco de switch.
+case: Marca um bloco de código em instruções switch.
+class: Define class
+const: Define uma variável ou parâmetro como uma constante (imutável), ou especifica que um método de classe não modifica atributos da classe.
+continue: continua a próxima iteração do loop.
+default: especifica um bloco de código padrão no switch.
+delete: Liberta memória dinâmica
+do: usado junto com while para criar um loop do/while.
+for: cria um loop for.
+if: faz uma declaração condicional.
+false: valor bool equivalente a 0.
+true: valor bool equivalente a 1.
+namespace: declara um espaço de nomes.
+new: reserva memória dinâmica.
+retrun: usado para devolver um valor duma função.
+sizeof: Um operador que devolve a quantidade de memória ocupada por uma variável ou tipo de dados.
+struct: define uma estrutura.
+swich: seleciona um dos muitos blocos de código para ser executado.
+try: cria uma declaraçãp try... catch.
+while: cria um while loop
+
+
+
