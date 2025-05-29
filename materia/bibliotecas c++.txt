@@ -74,4 +74,4 @@ PASSAGEM DE PARÂMETROS:
 por pointer - entrada/saída: usa-se tipo *valor
 por pointer constante, só entrada: usamos const tipo *valor
 passagem por valor, n se faz nada.
-passagem por referência de endereço usamos: tipo &valoe
+passagem por referência de endereço usamos: tipo &valor
