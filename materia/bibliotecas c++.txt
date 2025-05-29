@@ -84,3 +84,6 @@ Podem-se designar por matrizes
 Possuem 2 índiices um para cada dimensão
 Arrays unidimensionais:
 também conhecido como vetor, é uma estrutura de dados que armazena elementos do mesmo tipo de dado em uma única dimensão, ou seja, como uma lista ordenada. 
+arrays - percorrer array:
+andar pra frente: for(size_t i=0; i<array;ipp)
+andar pra trás: i=array-1;i>=0;i--
