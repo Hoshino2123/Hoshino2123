@@ -48,6 +48,7 @@ double: é usado para armazenar valores numéricos com casas decimais, oferecend
 char: tipo de dados que pode armazenar um caracter.
 float: msm coisa que o double mas com menos precisão e com 32bits.
 int: tipo de dados que armazena nº inteiros.
+void: Indica uma função que não devolve um valor ou especifica um ponteiro para um dado com um tipo não especificado.
 long: Garante que um número inteiro tem pelo menos 32 bits de comprimento
 else: Utilizado em declarações condicionais
 break: para imediatamente um loop ou bloco de switch.
