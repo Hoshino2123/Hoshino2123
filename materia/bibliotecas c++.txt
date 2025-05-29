@@ -77,3 +77,10 @@ por pointer constante, só entrada: usamos const tipo *valor.
 passagem por valor, n se faz nada..
 passagem por referência de endereço usamos: tipo &valor
 usa-se for (auto el: variavel) quando é passado por função
+Arrays bidimensionais:
+Sao arrays com 2 dimensões.
+Pode-se considerar que é um array (simples) onde ccada elemento também é um arrays simples.
+Podem-se designar por matrizes
+Possuem 2 índiices um para cada dimensão
+Arrays unidimensionais:
+também conhecido como vetor, é uma estrutura de dados que armazena elementos do mesmo tipo de dado em uma única dimensão, ou seja, como uma lista ordenada. 
