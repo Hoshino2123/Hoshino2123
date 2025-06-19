@@ -1,0 +1,98 @@
+##############################################
+#           GERENCIAMENTO BÁSICO             #
+##############################################
+
+# Verificar versão do Winget
+winget --version
+
+# Buscar um pacote (ex: Firefox)
+winget search firefox
+
+# Instalar um pacote
+winget install Mozilla.Firefox
+
+# Listar programas instalados
+winget list
+
+# Desinstalar um programa
+winget uninstall Mozilla.Firefox
+
+# Atualizar TODOS os programas
+winget upgrade --all
+
+##############################################
+#           CONTROLE DE ATUALIZAÇÕES         #
+##############################################
+
+# Atualizar um programa específico
+winget upgrade --id Microsoft.PowerToys
+
+# Ignorar atualizações de um programa
+winget upgrade --id Oracle.JavaRuntime --ignore
+
+# Excluir programas específicos durante atualização em massa
+winget upgrade --all --exclude "Microsoft.VisualStudio.2022.BuildTools"
+
+# Listar programas com atualizações pendentes
+winget upgrade
+
+##############################################
+#           GERENCIAMENTO AVANÇADO           #
+##############################################
+
+# Limpar cache de downloads
+winget cache clean
+
+# Exportar lista de programas instalados (backup)
+winget export -f "C:\backup.json"
+
+# Importar/restaurar programas de um backup
+winget import -f "C:\backup.json"
+
+# Mostrar informações detalhadas de um pacote
+winget show Microsoft.VisualStudioCode
+
+# Reparar instalação corrompida
+winget repair --id Adobe.Acrobat.Reader.64-bit
+
+##############################################
+#           FONTES E DEPENDÊNCIAS            #
+##############################################
+
+# Listar fontes de pacotes disponíveis
+winget source list
+
+# Adicionar nova fonte (ex: repositório corporativo)
+winget source add --name "Empresa" --arg "https://empresa.com/pacotes"
+
+# Remover uma fonte
+winget source remove winget
+
+##############################################
+#           COMANDOS EXPERIMENTAIS           #
+##############################################
+
+# Habilitar modo verbose para depuração
+winget --verbose
+
+# Validar um arquivo de manifesto YAML
+winget validate manifest.yaml
+
+# Fixar versão específica de um pacote
+winget pin add --id Google.Chrome --version 121.0.6167.140
+
+##############################################
+#            DICAS IMPORTANTES               #
+##############################################
+
+1. Sempre use IDs exatos (nomes display podem variar)
+   - Correto: `Microsoft.VisualStudio.2022.BuildTools`
+   - Incerto: `Visual Studio Build Tools`
+
+2. Para apps da Microsoft Store:
+   winget install --id 9WZDNCRFJBMP --source msstore
+
+3. Opções úteis:
+   --silent   - Instalação sem prompts
+   --accept-package-agreements - Aceita licenças automaticamente
+   --location "C:\MyApps" - Define pasta de instalação
