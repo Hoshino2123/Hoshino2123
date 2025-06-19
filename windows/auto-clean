@@ -1,10 +1,6 @@
 @echo off
-echo Limpando cache do winget...
-winget cache clean
-
-echo Limpando atualizações do Windows...
-dism /online /cleanup-image /startcomponentcleanup
+echo Limpando arquivos temporários do Windows...
 cleanmgr /sagerun:1
 
-echo Concluído! Seu PC está mais leve.
-pause
+echo Limpando cache de atualizações do Windows...
+dism /online /cleanup-image /startcomponentcleanup
