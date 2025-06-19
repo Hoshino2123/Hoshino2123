@@ -1,0 +1,2 @@
+winget cache clean - cache winget
+dism /online /cleanup-image /startcomponentcleanup - cache de atts
