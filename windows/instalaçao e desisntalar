@@ -1,0 +1,12 @@
+# Verificar versão
+winget --version
+
+# Limpar TUDO (cache + temporários)
+winget cache clean
+cleanmgr /sagerun:1
+dism /online /cleanup-image /startcomponentcleanup
+
+# Gerenciar programas como um PRO
+winget list
+winget upgrade --all
+winget uninstall --id NomeDoPrograma
