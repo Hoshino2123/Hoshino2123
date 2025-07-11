@@ -1,19 +1,19 @@
-# bibloteca C:
-## C strings: <cstring> (string.h): 
-## Funções:
-## Copiar:
-### memcpy: copia um bloco de memória.
-### memmove: move um bloco de memória.
-### strcpy: copia uma string.
-### strncpy: copia caracteres da string. 
+ bibloteca C:
+ C strings: <cstring> (string.h): 
+Funções:
+ Copiar:
+ memcpy: copia um bloco de memória.
+ memmove: move um bloco de memória.
+strcpy: copia uma string.
+strncpy: copia caracteres da string. 
 ____________________________________________________________________________________________________________
-## Concatenar/ligação:
-### strcat: contatena/liga stings.
-### strncat: acrescentar/adicionar caracteres da string.
+ Concatenar/ligação:
+ strcat: contatena/liga stings.
+ strncat: acrescentar/adicionar caracteres da string.
 ____________________________________________________________________________________________________________
-## Comparação:
-### memcmp: compara 2 blocos de memória.
-### strcmp: compara 2 stings.
-### strcoll: compara 2 strings utilizando o locale.
-### strncmp: compara caracteres de 2 strings.
-### strxfrm: transforma strings utilizando o locale.
+ Comparação:
+ memcmp: compara 2 blocos de memória.
+ strcmp: compara 2 stings.
+ strcoll: compara 2 strings utilizando o locale.
+ strncmp: compara caracteres de 2 strings.
+ strxfrm: transforma strings utilizando o locale.
