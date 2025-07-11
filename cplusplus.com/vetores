@@ -1,4 +1,4 @@
-# [bibloteca C]:
+# bibloteca C:
 ## C strings: <cstring> (string.h): 
 ## Funções:
 ## Copiar:
@@ -7,7 +7,7 @@
 ### strcpy: copia uma string.
 ### strncpy: copia caracteres da string. 
 ____________________________________________________________________________________________________________
-## [Concatenar/ligação]:
+## Concatenar/ligação:
 ### strcat: contatena/liga stings.
 ### strncat: acrescentar/adicionar caracteres da string.
 ____________________________________________________________________________________________________________
