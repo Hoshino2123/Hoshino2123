@@ -17,3 +17,234 @@ ________________________________________________________________________________
  strcoll: compara 2 strings utilizando o locale.
  strncmp: compara caracteres de 2 strings.
  strxfrm: transforma strings utilizando o locale.
+____________________________________________________________________________________________________________
+Outros:
+strlen: dá o comprimento da string.
+Macros: 
+NULL: pointer nulo.
+_____________________________________________________________________________________________________________
+Tipos: 
+size_t: tipo integral sem sinal
+Contentores:
+Array header: <array>
+classe de array:
+______________________________________________________________________________________________________________
+ipo de membros:
+value_type : o primeiro parâmetro do modelo.
+reference: value_type&.
+const_reference: const value_type&.
+pointer: value_type*.
+const_pointer: const value_type&.
+iterator : um iterador de acesso aleatório a value_type.
+const_iterator: um iterador de acesso aleatório a
+value_type constanste.
+reverse_iterator: iterador reverso, <iterator>.
+const_reverse_iterator: iterador reverso, <const_iterator>
+size_type: size_t.
+difference_type: ptrdiff_t.
+_____________________________________________________________________________________________________________
+member functions:
+Iterators:
+begin: devolve o iterador ao ínicio.
+end: devolve o iterador ao fim.
+para devorver o iterador reverso usamos rbegin/rend.
+pra devolver o iterador constanste usamos cbegin/cend.
+para devolver o iterador constante reverso usamos crbegin/crend.
+capacidade:
+size: devolve o tamanho.
+max_size: devolve o tamanho máximo.
+empty: testa se o array está vazio.
+Aceder ao elemento:
+operator[] = aceder ao elemento.
+at =aceder ao elemento.
+front = aceder ao 1º elemento.
+back = aceder ao último elemento.
+data = Obter um pointer o para os dados
+__________________________________________________________________________________________________________________________
+Modificadores: 
+fill: preenche array com valor.
+swap: troca conteúdos.
+<forward_list>:
+(constructor): construir o objeto forward_list.
+(destructor): destruir o objeto forward_list.
+operator= atribuir conteúdo.
+modificadores:
+emplace_front : constroí e insere elementos no início.
+push_front : insere elemento no início.
+pop_front: apaga o 1º elemento.
+emplace_after: constroí e insere elementos.
+insert_after: insere elementos.
+erase_after: apaga elementos.
+swap: troca conteúdo.
+resize: muda tamanho.
+clear: apaga conteúdo.
+operations: 
+remove: remove elemetos com valor específico.
+unique: remove valorees duplicados.
+merge: une listas.
+sort: ordena elementos no contentor.
+reverse: inverte a ordem dos elementos.
+_____________________________________________________________________________________________________________________________
+<list>:
+(constructor): construir o objeto forward_list.
+(destructor): destruir o objeto forward_list.
+operator= atribuir conteúdo.
+modificadores:
+emplace_front : constroí e insere elementos no início.
+push_front : insere elemento no início.
+pop_front: apaga o 1º elemento.
+emplace_after: constroí e insere elementos.
+insert_after: insere elementos.
+erase_after: apaga elementos.
+swap: troca conteúdo.
+resize: muda tamanho.
+clear: apaga conteúdo.
+operations: 
+remove: remove elemetos com valor específico.
+unique: remove valorees duplicados.
+merge: une listas.
+sort: ordena elementos no contentor.
+reverse: inverte a ordem dos elementos.
+_____________________________________________________________________________________________________________________________
+<vector>:
+member functions
+(constructor): construir o objeto forward_list.
+(destructor): destruir o objeto forward_list.
+operator= atribuir conteúdo.
+Iterators:
+begin: devolve o iterador ao ínicio.
+end: devolve o iterador ao fim.
+para devorver o iterador reverso usamos rbegin/rend.
+pra devolver o iterador constanste usamos cbegin/cend.
+para devolver o iterador constante reverso usamos crbegin/crend.
+capacidade: 
+size : devolve o tamanho
+max_size : devolve o tamanho máximo.
+resize: muda o tamanho.
+capacity : devolve o tamanho da capacidde atribuída.
+empty: testa se o vetor está vazio.
+reserve: pede uma mudança a capacidade.
+shrink_to_fit: escolhe pra caber.
+Aceder ao elemento:
+operator[] = aceder ao elemento.
+at =aceder ao elemento.
+front = aceder ao 1º elemento.
+back = aceder ao último elemento.
+data = Obter um pointer o para os dados
+Modificadores:
+assign: atribuir conteúdo ao vetor.
+push_back: adicionar elementos no final.
+pop_back: apagar último elemento.
+insert : inserir elementos.
+erase : apagar elementos.
+swap: troca elementos.
+clear: limpa elementos.
+emplace : construir e inserir elementos.
+emplace_back : construir e inserir elementos no final.
+__________________________________________________________________________________________________________________________________
+Diversos:
+<algorithm> : bibloteca padrão para algorítmos.
+functions:
+find:  encontrar 1 valor no intervalo.
+find_if: encontrar 1 elemento no intervalo.
+count : Contagem de aparições de valores no intervalo
+search : Intervalo de pesquisa para a subsequência
+copy: copia intervalos no elementos.
+replace: dá replace de valores no intervalo.
+remove: remove valores do intervalo.
+reverse: reverte o intervalo.
+sort: ordena elementos no intervalo.
+merge: 	Unir intervalos ordenados
+min: retorna o mais pequeno.
+max: retona o maior.
+minmax: retorna o maior e o menor elemento.
+min_element: retorna o elemeno menor no intervalo.
+max_element: retorna o elemento maior no intervalo
+minmax_element:  retorna o maior e o menor elemento no intervalo.
+___________________________________________________________________________________________________________________________________
+<iterator>
+funçoes:
+operaçõees de iteradores:
+advance : Iterador de avanço.
+distance : Retorna a distância entre iteradores.
+begin : Iterator para o início.
+end: iterador para o fim.
+prev : Obter o iterador para o elemento anterior.
+next: 	Obter o iterador para o elemento seguinte
+<limits> : limites numéricos.
+<memory>: memória dinamica.
+______________________________________________________________________________________________________________________________________
+<sting>>:
+Member types
+member type	definition
+value_type	char
+traits_type	char_traits<char>
+allocator_type	allocator<char>
+reference	char&
+const_reference	const char&
+pointer	char*
+const_pointer	const char*
+iterator	a random access iterator to char (convertible to const_iterator)
+const_iterator	a random access iterator to const char
+reverse_iterator	reverse_iterator<iterator>
+const_reverse_iterator	reverse_iterator<const_iterator>
+difference_type	ptrdiff_t
+size_type	size_t
+_____________________________________________________________________________________________________________________________________________________________________________
+Member functions
+(constructor)	Construct string object (public member function)
+(destructor)	String destructor (public member function)
+operator=	String assignment (public member function)
+_____________________________________________________________________________________________________________________________________________________________________________
+Iterators:
+begin	Return iterator to beginning (public member function)
+end	Return iterator to end (public member function)
+rbegin	Return reverse iterator to reverse beginning (public member function)
+rend	Return reverse iterator to reverse end (public member function)
+cbegin	Return const_iterator to beginning (public member function)
+cend	Return const_iterator to end (public member function)
+crbegin	Return const_reverse_iterator to reverse beginning (public member function)
+crend	Return const_reverse_iterator to reverse end (public member function)
+_____________________________________________________________________________________________________________________________________________________________________________
+Capacity:
+size	Return length of string (public member function)
+length	Return length of string (public member function)
+max_size	Return maximum size of string (public member function)
+resize	Resize string (public member function)
+capacity	Return size of allocated storage (public member function)
+reserve	Request a change in capacity (public member function)
+clear	Clear string (public member function)
+empty	Test if string is empty (public member function)
+shrink_to_fit	Shrink to fit (public member function)
+_____________________________________________________________________________________________________________________________________________________________________________
+Element access:
+operator[]	Get character of string (public member function)
+at	Get character in string (public member function)
+back	Access last character (public member function)
+front	Access first character (public member function)
+_____________________________________________________________________________________________________________________________________________________________________________
+Modifiers:
+operator+=	Append to string (public member function)
+append	Append to string (public member function)
+push_back	Append character to string (public member function)
+assign	Assign content to string (public member function)
+insert	Insert into string (public member function)
+erase	Erase characters from string (public member function)
+replace	Replace portion of string (public member function)
+swap	Swap string values (public member function)
+pop_back	Delete last character (public member function)
+_____________________________________________________________________________________________________________________________________________________________________________
+String operations:
+c_str	Get C string equivalent (public member function)
+data	Get string data (public member function)
+get_allocator	Get allocator (public member function)
+copy	Copy sequence of characters from string (public member function)
+find	Find content in string (public member function)
+rfind	Find last occurrence of content in string (public member function)
+find_first_of	Find character in string (public member function)
+find_last_of	Find character in string from the end (public member function)
+find_first_not_of	Find absence of character in string (public member function)
+find_last_not_of	Find non-matching character in string from the end (public member function)
+substr	Generate substring (public member function)
+compare	Compare strings (public member function)
+_____________________________________________________________________________________________________________________________________________________________________________
