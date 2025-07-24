@@ -30,7 +30,8 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 ## Spoti 🌸
-[![spotify-github-profile]([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]])
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
 ____________________________________________________________________________________________________________________________________________________________
