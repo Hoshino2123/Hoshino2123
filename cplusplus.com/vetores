@@ -174,7 +174,7 @@ next: 	Obter o iterador para o elemento seguinte
 <limits> : limites numéricos.
 <memory>: memória dinamica.
 ______________________________________________________________________________________________________________________________________
-<sting>>:
+<string>:
 Member types
 member type	definition
 value_type	char
