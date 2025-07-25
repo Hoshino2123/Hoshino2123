@@ -1,0 +1,16 @@
+C++ <iostream>:
+C++ cin : lê o input do user.
+C++ cout :imprime o resultado no ecrã.
+_____________________________________________________________________________________________
+C++ <cstring>
+C++ memcpy() :copia um bloco de memória da fonte pro destino.
+C++ memset() :copia o caractere para o início da string n vezes.
+C++ strcat() :acrescenta uma cópia da string ao final de outra string.
+C++ strchr() :procura pelo caractere na string.
+C++ strcmp() :compara 2 strings.
+C++ strcpy() :copia a cadeia de caracteres da origem para o destino.
+C++ strlen() :retorna o comprimento da string fonercida.
+C++ strncmp() :compara duas cadeias de caracteres lexicograficamente.
+C++ strncpy() :copia a cadeia de caracteres da origem para o destino.
+C++ strstr() :encontra a primeira ocorrência de uma subcadeia na cadeia.
+C++ strtok() :Dividir string com base no delimitador.
