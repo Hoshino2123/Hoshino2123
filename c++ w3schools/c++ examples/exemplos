@@ -1,0 +1,48 @@
+output/input:
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+many cout:
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  cout << "I am learning C++";
+  return 0;
+}
+nova linha \n:
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World! \n";
+  cout << "I am learning C++";
+  return 0;
+}
+endl:
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!" << endl;
+  cout << "I am learning C++";
+  return 0;
+}
+______________________________________________________________________________________________________
+C++ Comments
+single line before:
+#include <iostream>
+using namespace std;
+
+int main() {
+  // This is a comment
+  cout << "Hello World!";
+  return 0;
+}
+single-line end:
+
