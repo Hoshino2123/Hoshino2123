@@ -3,10 +3,10 @@
 
 ## Languages overall 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut-vertical&theme=dark&langs_count=9000)](https://github.com/anuraghazra/github-readme-stats)
-______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 ## Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshino2123&show_icons=true&theme=dark&locale=pt-pt&include_all_commits=true)  
-_______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 ## Languages 
 <div style="display inline_block">
 <img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -17,9 +17,11 @@ ________________________________________________________________________________
 <img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
-_______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
+
 ## Socials
 <a href="https://www.instagram.com/_._aqua__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 ## Spoti 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
 
