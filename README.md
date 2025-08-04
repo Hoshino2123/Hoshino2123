@@ -12,8 +12,11 @@ ________________________________________________________________________________
 ![Static Badge](https://img.shields.io/badge/Beacons-ai?style=plastic&logoColor=black&logoSize=auto&color=000000&cacheSeconds=3060&link=https%3A%2F%2Fbeacons.ai%2Fhoshino4ever)
 ________________________________________________________________________________________________________________________________________________________
 ## Languages 🌸
-<div style = "display inline_block><br>
+<div style = "display inline_block"><br>
+<img align="center" alt="pedro-html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
   </div>
+  
 _________________________________________________________________________________________________________________________________________________________
 ## Tools 🌸
 
