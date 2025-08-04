@@ -1,6 +1,5 @@
 ## Sup, I'm Hoshino 
 - 😄 Pronouns: He/Him 
-
 ## Languages overall 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino2123&layout=donut-vertical&theme=dark&langs_count=9000)](https://github.com/anuraghazra/github-readme-stats)
 _________________________________________________________________________________________________
@@ -20,14 +19,20 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ## Socials
-<a href="https://www.instagram.com/_._aqua__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<div>
+<a href="https://www.instagram.com/_._aqua__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://x.com/CEOmualani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white></a>
+
+
+
+
 
 ## Spoti 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
-
-____________________________________________________________________________________________________________________________________________________________
+</div>
+_________________________________________________________________________________________________
 ## É isso, sayonara <3
 <!-- Markdown -->
 
