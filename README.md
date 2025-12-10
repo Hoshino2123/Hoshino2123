@@ -25,7 +25,7 @@ Hello, I'm Pedro Magalhães.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) !
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -39,7 +39,7 @@ Hello, I'm Pedro Magalhães.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-## Spoti 🎧ྀི
+## Spoti 🎧
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312izpdez5np7vhrvqxaovyycc7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
