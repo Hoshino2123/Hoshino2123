@@ -1,6 +1,9 @@
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ─────⋆⋅☆⋅⋆ 
-## Sup, I'm Hoshino 
-- 😄 Pronouns: He/Him 
+## Hello, I'm Pedro Magalhães.
+- 😄 Pronouns: He/Him
+
+  🎓 - Técnico de Gestão e Programação de Sistemas Informáticos pela Escola Profissional de Tecnologia Digital, e recém formado no ctesp de Informática de gestão pelo Instituto Superior de Tecnologias Avançadas de Lisboa (ISTEC).
+  
 
 
 ## Languages 💻
@@ -12,6 +15,9 @@
 <img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="center" alt="pedro-html" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+                      
 </div>
 
 
