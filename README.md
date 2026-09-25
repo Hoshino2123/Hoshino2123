@@ -42,7 +42,6 @@ ________________________________________________________________________________
 ## Spoti 🎧
 ![spotify-github-profile](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=312izpdez5np7vhrvqxaovyycc7i&count=10&width=460&radius=0&profile=off&footer=wave)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312izpdez5np7vhrvqxaovyycc7i&unique={true|1|on|yes)
 
 ─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ────
 
